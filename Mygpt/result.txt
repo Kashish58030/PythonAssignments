@@ -1,0 +1,19 @@
+OOPs stands for Object-Oriented Programming System. OOPs is a programming paradigm that uses "objects" to design applications and computer programs. "Objects" are data structures consisting of data fields and methods together with their interactions. This makes it easier to create complex programs that are easier to maintain and reuse. OOPs is based on several concepts such as Encapsulation, Abstraction, Inheritance, and Polymorphism. Let's understand each of these concepts:
+
+**1. Encapsulation:**
+   - Encapsulation is the bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components.
+   - In Python, we can create a class and bundle data and methods inside it. This helps in data hiding, where other parts of the program cannot directly access the data.
+
+**2. Abstraction:**
+   - Abstraction is the act of hiding the implementation details and showing only the functionality to the user.
+   - In Python, we can use abstract classes and methods to achieve abstraction.
+
+**3. Inheritance:**
+   - Inheritance is the process by which one class inherits the properties and methods of another class.
+   - The child class inherits all the methods and data members from the parent class. Additionally, it can have its own unique methods and data members.
+
+**4. Polymorphism:**
+   - Polymorphism refers to the ability of an object to take on multiple forms.
+   - In Python, polymorphism is achieved through method overriding. For example, if a parent class has a method and the child class overrides it, then the same method can behave differently for different objects.
+
+These concepts help in creating modular, maintainable, and reusable code. Python is a versatile language that supports OOPs, procedural programming, and functional programming. It is widely used for web development, data analysis, machine learning, and other domains.
